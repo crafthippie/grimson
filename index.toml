@@ -10,7 +10,7 @@ hash = "50f6634d51c2ce851c5f432a6056dcbdfb6f6fb182c7652850f02f82f7f0d878"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "960890be34fda21cd78de480ca9dc367b518500efde04fc7fc34bc94ac383d89"
+hash = "47a7f350e4f5d945aed55768997706063384022f965d2d1fdeb99f18fd2787e8"
 metafile = true
 
 [[files]]
@@ -29,18 +29,28 @@ hash = "d1d6ff2b3749a159e309433d774a85b485a1d72931363cd181192bfb95b85c44"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
 metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "6faa8b4d20113199640f661316448805f832124cd36cf5813d64e52c33b7b891"
+hash = "4cd11ed0d55653c33097f8ba76c9ca35efd638e84a44b3a399347fa1a699175f"
 metafile = true
 
 [[files]]
 file = "mods/cucumber.pw.toml"
 hash = "be21ddae677bf501dcb79ce4ac534e0ea16b21e0823223bd0a7b15d72b1c187e"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "d798616f2dfec5f71ac361e151874f3d0aac61cd24a3e33028ac88f5747478c4"
 metafile = true
 
 [[files]]
@@ -91,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/iron-jetpacks.pw.toml"
 hash = "727011fc4720b16396e810fd3ca3119430e95def38e43923b21bb2d9253cd061"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "c0a0a1e85892a9546c1c69761db4d676e8ff63f67dd203b9d1ad1dc0b07d7b0f"
 metafile = true
 
 [[files]]
@@ -170,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/remorphed.pw.toml"
-hash = "81f69327be06e1d5c98fb1dcfcb6eb50403c4c5ba2ed948e2904aa91fae9e2bc"
+hash = "3acafc56e67e3e5b5b432713b85ddbf24f1c386328a9fa380f40ec19efe4dc21"
 metafile = true
 
 [[files]]
@@ -249,13 +264,18 @@ hash = "3c812e3e57600eef81724eba1bd36452338bcd0214a6364ae980026742fe96a1"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "160e6c86655e71ce18b4ac3463ba9eccf51e405a6846541536e95371b0063929"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "3319f9d8476289fa84b2de8aac7987937a932f54f7b3ba89c5527fbfa25668d4"
 metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "27356380d5e87840bbe1233d23720f6694835d2744a108c73f3bae4272236ccf"
+hash = "e9923552333854e5be89f6a2374321c783b9ecaa88e544326a3a1008ac39f2e6"
 metafile = true
 
 [[files]]

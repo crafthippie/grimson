@@ -3,11 +3,11 @@ filename = "craftedcore-2.1-forge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Dg7PHdkJ/versions/hCRNryJX/craftedcore-2.1-forge.jar"
 hash-format = "sha1"
 hash = "c8fcd9ca2a24db738ec25d6574d6250b064c86a8"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5068014
-project-id = 923377
+[update.modrinth]
+mod-id = "Dg7PHdkJ"
+version = "hCRNryJX"
