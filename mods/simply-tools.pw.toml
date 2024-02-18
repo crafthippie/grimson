@@ -1,0 +1,13 @@
+name = "Simply Tools"
+filename = "SimplyTools-1.20.1-2.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v7uAVl86/versions/LByMbtAP/SimplyTools-1.20.1-2.0.5.jar"
+hash-format = "sha1"
+hash = "f548da4a7dc99892f248ed389b03b27743888c2f"
+
+[update]
+[update.modrinth]
+mod-id = "v7uAVl86"
+version = "LByMbtAP"

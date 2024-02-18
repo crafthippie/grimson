@@ -1,0 +1,16 @@
+baseURL = "https://crafthippie.github.io/grimson/"
+languageCode = "en-us"
+title = "Grimson"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  smartlists = true
+  extensions = ["hardLineBreak"]
+
+[params]
+  author = "Thomas Boerger"
+  description = "Documentation for Minecraft pack Grimson"
+  keywords = "minecraft, mod, modpack, forge"

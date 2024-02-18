@@ -1,0 +1,13 @@
+name = "grimson"
+author = "Thomas Boerger"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "66aa6f7667316733e13ddb6ae7e79a5794459298f38d10a2c5ed1e40412ba839"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.84"

@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+declare -x MINECRAFT_BACKUPS_DIR
+[[ -z "${MINECRAFT_BACKUPS_DIR}" ]] && MINECRAFT_BACKUPS_DIR="${MINECRAFT_DATA_DIR}/backups"
+
+declare -x MINECRAFT_DYNMAP_DIR
+[[ -z "${MINECRAFT_DYNMAP_DIR}" ]] && MINECRAFT_DYNMAP_DIR="${MINECRAFT_DATA_DIR}/dynmap"
+
+true
