@@ -119,6 +119,21 @@ hash = "2b6ec657310bc2163688bc66cf1a3524f426679483f409247b0fd66107db02e4"
 metafile = true
 
 [[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "33e24e7a4d30979259731196cfa1b326542ccee07ae329180eea218dcd0c55c2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "f09156e953a90aa326b2b8323fce02456768e7d37a315271adf17a28a0d65989"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "f89072240962d6626670a875ae6158ef85b068cf67eaf97a0a3ffd661287f260"
+metafile = true
+
+[[files]]
 file = "mods/material-elements-panels-plates-slabs.pw.toml"
 hash = "eb01b338f1044477ff8c9417173501fc04f48b84e54f4d6d885c5449ab4b43b4"
 metafile = true
