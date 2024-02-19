@@ -79,6 +79,11 @@ hash = "dbb331adc5f4dc4fa55b68ea9232b5cc06c67d63af7f2d81c039fc8cbd048f6d"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "4a4f5699fc56badc280b749566e8e23b2da963d33723df74b2a8a5503a2dc3b9"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "4753a161dd42ce633262fb987bf7805785c6e34db21d67ad647d391af6b3522e"
 metafile = true
