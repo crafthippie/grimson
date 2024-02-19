@@ -1,0 +1,13 @@
+name = "Supreme Mining dimension"
+filename = "SupremeMiningDimensions-1.20.1-V1.4.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2BlXDXTC/versions/ghCuL02s/SupremeMiningDimensions-1.20.1-V1.4.3.4.jar"
+hash-format = "sha1"
+hash = "7b62038a1acf61016e1d73c1f2be2631d6c5cd2a"
+
+[update]
+[update.modrinth]
+mod-id = "2BlXDXTC"
+version = "ghCuL02s"
