@@ -74,6 +74,21 @@ hash = "4753a161dd42ce633262fb987bf7805785c6e34db21d67ad647d391af6b3522e"
 metafile = true
 
 [[files]]
+file = "mods/hammer-lib.pw.toml"
+hash = "0259ff86b5c5655cbe9a25c626dcabc76cc049a82cce44af54a652fd4474f021"
+metafile = true
+
+[[files]]
+file = "mods/hammer-microblocks.pw.toml"
+hash = "44f4f57fff680e5735186cb5621f00434bdb6a4a0d15364d6ad9bdeb7c25e561"
+metafile = true
+
+[[files]]
+file = "mods/hammer-multipart.pw.toml"
+hash = "7ed339cf3d4853568b5578c1cdf6d932ee5370cbdb55299a7408ee52773f7db2"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "cd487952f1096d06d0507170caf1e49f5f2cebc97eb4323b1e697491990ac0ee"
 metafile = true
@@ -291,4 +306,14 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "ea246ad0580b48133dfacf549f53c0cbcb3577f5e838f7374e685963594427f8"
+metafile = true
+
+[[files]]
+file = "mods/xnet-gases.pw.toml"
+hash = "a837bcf6f3e2055e527a2219acae36aaf923f044202c6994874db9d48e319aa6"
+metafile = true
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "b1fe70ebc903927c01525aaf2b5ef905c02e2c509eb9112b1f85e6a44b54d147"
 metafile = true

@@ -1,0 +1,13 @@
+name = "HammerMultipart"
+filename = "HammerMultipart-1.20.1-20.1.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9g6WlH2N/versions/ALctsgu9/HammerMultipart-1.20.1-20.1.17.jar"
+hash-format = "sha1"
+hash = "9ecee4ce871cb9786a1f4911a14de2b7a9760e16"
+
+[update]
+[update.modrinth]
+mod-id = "9g6WlH2N"
+version = "ALctsgu9"
