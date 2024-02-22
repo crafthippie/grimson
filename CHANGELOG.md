@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.1](https://github.com/crafthippie/grimson/compare/v1.2.0...v1.2.1) (2024-02-22)
+
+
+### Bugfixes
+
+* use right base image for amd64 ([6ab77da](https://github.com/crafthippie/grimson/commit/6ab77dade23dd89c7d1bd1648727c6c525eeb39e))
+* use right base image for arm64 ([9346504](https://github.com/crafthippie/grimson/commit/9346504477a7ddc11e105badd97dc55bf93bb127))
+
 ## [1.2.0](https://github.com/crafthippie/grimson/compare/v1.1.0...v1.2.0) (2024-02-22)
 
 
