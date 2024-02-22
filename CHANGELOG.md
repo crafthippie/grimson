@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/crafthippie/grimson/compare/v1.1.0...v1.2.0) (2024-02-22)
+
+
+### Features
+
+* enforce right version of forge ([c6cfea0](https://github.com/crafthippie/grimson/commit/c6cfea025e92fa048641564139b53bd2efbfb9ce))
+
+
+### Bugfixes
+
+* use neoforge download url ([ac0d962](https://github.com/crafthippie/grimson/commit/ac0d962fc5909dbe1c5c16314452edcce56cc1ec))
+
 ## [1.1.0](https://github.com/crafthippie/grimson/compare/v1.0.0...v1.1.0) (2024-02-22)
 
 
