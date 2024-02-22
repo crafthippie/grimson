@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.0](https://github.com/crafthippie/grimson/compare/v1.0.0...v1.1.0) (2024-02-22)
+
+
+### Features
+
+* add microblocks and xnet ([02425ad](https://github.com/crafthippie/grimson/commit/02425ad1913bfcd94329401959e67fd1aebd3297))
+* drop dimensional doors and add mining dimension and trashcans ([fcf9629](https://github.com/crafthippie/grimson/commit/fcf9629364fef69628f77bf2a7f41fce235a97f3))
+* drop useless or broken mods, add agriculture ([240de38](https://github.com/crafthippie/grimson/commit/240de3850298c19f7535786744413a73f12cfe48))
+
+
+### Bugfixes
+
+* install jei on the server ([33480cc](https://github.com/crafthippie/grimson/commit/33480ccc09e77de50d306607982af3d8044cae5c))
+
 ## 1.0.0 (2024-02-19)
 
 
