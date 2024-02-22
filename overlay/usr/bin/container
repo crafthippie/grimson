@@ -18,5 +18,5 @@ pushd ${MINECRAFT_GAME_DIR} >/dev/null
     fi
 
     echo "> starting minecraft server"
-    exec ${STARTCMD} ${JAVA_OPTS} @libraries/net/minecraftforge/forge/${MINECRAFT_VERSION}-${FORGE_VERSION}/unix_args.txt ${MINECRAFT_OPTS}
+    exec ${STARTCMD} ${JAVA_OPTS} @libraries/net/neoforged/forge/${MINECRAFT_VERSION}-${FORGE_VERSION}/unix_args.txt ${MINECRAFT_OPTS}
 popd >/dev/null
