@@ -9,6 +9,11 @@ file = "config/simplebackups-common.toml"
 hash = "50f6634d51c2ce851c5f432a6056dcbdfb6f6fb182c7652850f02f82f7f0d878"
 
 [[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "240cf6196aef5a820435e10b12837daab76750206f68b3885e91c5a6e9248470"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "47a7f350e4f5d945aed55768997706063384022f965d2d1fdeb99f18fd2787e8"
 metafile = true
@@ -19,13 +24,13 @@ hash = "73b223e3640386229fdb826495cb3d024879f9f7792bf465e51ed6c6ac026971"
 metafile = true
 
 [[files]]
-file = "mods/bow-infinity-fix.pw.toml"
-hash = "1adcb5d466522d7bfa7a74e60c16b64e5192af85a1cb283bd2faf6cf991cfbf0"
+file = "mods/chunk-loaders.pw.toml"
+hash = "d1d6ff2b3749a159e309433d774a85b485a1d72931363cd181192bfb95b85c44"
 metafile = true
 
 [[files]]
-file = "mods/chunk-loaders.pw.toml"
-hash = "d1d6ff2b3749a159e309433d774a85b485a1d72931363cd181192bfb95b85c44"
+file = "mods/citadel.pw.toml"
+hash = "2c0dd81ff006b01fb3b2020b63eb7a7626970ba425c487dbdc01c595ac37932d"
 metafile = true
 
 [[files]]
@@ -131,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "33e24e7a4d30979259731196cfa1b326542ccee07ae329180eea218dcd0c55c2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "30e136ebbb3f07f49403e513291253d45a3fae1c7c0250e3cd926d38ac193115"
 metafile = true
 
 [[files]]
@@ -306,14 +316,4 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "ea246ad0580b48133dfacf549f53c0cbcb3577f5e838f7374e685963594427f8"
-metafile = true
-
-[[files]]
-file = "mods/xnet-gases.pw.toml"
-hash = "a837bcf6f3e2055e527a2219acae36aaf923f044202c6994874db9d48e319aa6"
-metafile = true
-
-[[files]]
-file = "mods/xnet.pw.toml"
-hash = "b1fe70ebc903927c01525aaf2b5ef905c02e2c509eb9112b1f85e6a44b54d147"
 metafile = true
