@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.3.0](https://github.com/crafthippie/grimson/compare/v1.2.2...v1.3.0) (2024-03-04)
+
+
+### Features
+
+* add alexs mobs ([5bdd70d](https://github.com/crafthippie/grimson/commit/5bdd70dd730a2c0dee2f4a6eac037ce4575dd1f6))
+* add macaws furniture ([c3bb5a9](https://github.com/crafthippie/grimson/commit/c3bb5a9da3b432d295db979f1485fe7233aa9be7))
+* remove box infinity fix ([fc62a7c](https://github.com/crafthippie/grimson/commit/fc62a7ce70a75438a04d962335330eaaa724bdec))
+* remove xnet and xnet bases ([a93c02c](https://github.com/crafthippie/grimson/commit/a93c02c9ece3011c094cb892b87181f1c9f5d36f))
+
+
+### Bugfixes
+
+* move temporary host to pipeline ([8932020](https://github.com/crafthippie/grimson/commit/8932020723b016fa27ea0812daf5d88d00329f0d))
+* resolve outdated domain temporary ([d125462](https://github.com/crafthippie/grimson/commit/d125462695bddde2e2dc2e7dde19f5d23e305262))
+
 ## [1.2.2](https://github.com/crafthippie/grimson/compare/v1.2.1...v1.2.2) (2024-02-26)
 
 
