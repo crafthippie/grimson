@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/crafthippie/grimson/compare/v1.3.0...v1.4.0) (2024-10-28)
+
+
+### Features
+
+* upgrade forge versions ([fdb14a0](https://github.com/crafthippie/grimson/commit/fdb14a07a4111df78ecda896b4638b0d0a2f4c2f))
+
 ## [1.3.0](https://github.com/crafthippie/grimson/compare/v1.2.2...v1.3.0) (2024-03-04)
 
 
