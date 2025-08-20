@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/crafthippie/grimson/compare/v1.4.0...v2.0.0) (2025-08-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* restructure build process
+
+### Features
+
+* restructure build process ([f9f96c0](https://github.com/crafthippie/grimson/commit/f9f96c0f007d1825b88b3744d9e610426cd08f18))
+
 ## [1.4.0](https://github.com/crafthippie/grimson/compare/v1.3.0...v1.4.0) (2024-10-28)
 
 
