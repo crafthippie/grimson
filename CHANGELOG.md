@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/crafthippie/grimson/compare/v2.0.0...v2.0.1) (2025-08-20)
+
+
+### Bugfixes
+
+* resolve client deployment ([56a7dc1](https://github.com/crafthippie/grimson/commit/56a7dc1f88e87807e394894ae716dfef4ee2a1f5))
+
 ## [2.0.0](https://github.com/crafthippie/grimson/compare/v1.4.0...v2.0.0) (2025-08-20)
 
 
