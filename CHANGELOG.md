@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/crafthippie/grimson/compare/v2.0.1...v2.0.2) (2025-09-29)
+
+
+### Bugfixes
+
+* **deps:** pin dependencies ([#11](https://github.com/crafthippie/grimson/issues/11)) ([3c7193b](https://github.com/crafthippie/grimson/commit/3c7193bb4004e34598061edf4478bd9b7fb411a6))
+
 ## [2.0.1](https://github.com/crafthippie/grimson/compare/v2.0.0...v2.0.1) (2025-08-20)
 
 
