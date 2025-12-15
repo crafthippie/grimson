@@ -1,5 +1,7 @@
 # Changelog
 
+## [2.0.12](https://github.com/crafthippie/grimson/compare/v2.0.11...v2.0.12) (2025-12-15)
+
 ## [2.0.11](https://github.com/crafthippie/grimson/compare/v2.0.10...v2.0.11) (2025-12-08)
 
 ## [2.0.10](https://github.com/crafthippie/grimson/compare/v2.0.9...v2.0.10) (2025-12-01)
