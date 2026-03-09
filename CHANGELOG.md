@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.0.24](https://github.com/crafthippie/grimson/compare/v2.0.23...v2.0.24) (2026-03-09)
+
+### Dependencies
+
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 19b6c07 ([#94](https://github.com/crafthippie/grimson/issues/94)) ([c81ec9b](https://github.com/crafthippie/grimson/commit/c81ec9bc0bb76a1157a79908b654c8cac2187510))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 27011ba ([#96](https://github.com/crafthippie/grimson/issues/96)) ([39658bc](https://github.com/crafthippie/grimson/commit/39658bc2cc58143dcd51f09b21e44e0958b62880))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 320364a ([#97](https://github.com/crafthippie/grimson/issues/97)) ([00d10bf](https://github.com/crafthippie/grimson/commit/00d10bf82b090570e8839ea69194828bc083b393))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 3225b2e ([#93](https://github.com/crafthippie/grimson/issues/93)) ([dcd723b](https://github.com/crafthippie/grimson/commit/dcd723b982026f5125bb9aa319949b40ffdc1050))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to a213202 ([#88](https://github.com/crafthippie/grimson/issues/88)) ([ea7aa22](https://github.com/crafthippie/grimson/commit/ea7aa227557d04b9c486aae45dd9635282de120c))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to b00252d ([#91](https://github.com/crafthippie/grimson/issues/91)) ([3ab25f6](https://github.com/crafthippie/grimson/commit/3ab25f6ac461d78d982efbbe28e081a8d4afa57a))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to dd899bd ([#90](https://github.com/crafthippie/grimson/issues/90)) ([37ed915](https://github.com/crafthippie/grimson/commit/37ed9155e03c18f4b2614b4ab9ccbc8a2d9bfe7f))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([cf4e14d](https://github.com/crafthippie/grimson/commit/cf4e14dd3c33fa13bda9ec7c91c588d4450ff7c9))
+
 ## [2.0.23](https://github.com/crafthippie/grimson/compare/v2.0.22...v2.0.23) (2026-03-02)
 
 ### Dependencies
