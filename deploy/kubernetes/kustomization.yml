@@ -26,6 +26,6 @@ secretGenerator:
 images:
   - name: minecraft-server
     newName: quay.io/crafthippie/grimson
-    newTag: 2.0.29@sha256:17a364b858686d63cd39dfd88a1704e15ddf707d5f00a04e18d22a358cf8af80
+    newTag: 2.0.30
 
 ...
