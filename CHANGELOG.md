@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.0.33](https://github.com/crafthippie/grimson/compare/v2.0.32...v2.0.33) (2026-05-11)
+
+### Dependencies
+
+* **patch:** pin quay.io/crafthippie/grimson docker tag to 5a208b0 ([#115](https://github.com/crafthippie/grimson/issues/115)) ([9368254](https://github.com/crafthippie/grimson/commit/9368254a82ba85fe3dd662511b6cb09d51f2b546))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([712b72b](https://github.com/crafthippie/grimson/commit/712b72b7dd84360dd116c6f16b79bbcbd5bd5e43))
+
 ## [2.0.32](https://github.com/crafthippie/grimson/compare/v2.0.31...v2.0.32) (2026-05-04)
 
 ### Dependencies
