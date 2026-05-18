@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.34](https://github.com/crafthippie/grimson/compare/v2.0.33...v2.0.34) (2026-05-18)
+
+### Dependencies
+
+* **patch:** pin quay.io/crafthippie/grimson docker tag to a09af44 ([#116](https://github.com/crafthippie/grimson/issues/116)) ([344037a](https://github.com/crafthippie/grimson/commit/344037a6d7381316330c1487cd54e123cae2ea72))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 04d45f1 ([#118](https://github.com/crafthippie/grimson/issues/118)) ([097a932](https://github.com/crafthippie/grimson/commit/097a932bc76293c65ed2b5f3258a888926c08149))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to fe2d2db ([#117](https://github.com/crafthippie/grimson/issues/117)) ([77c3d54](https://github.com/crafthippie/grimson/commit/77c3d549d23df9839ccf6157bdc5baf979a55cad))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([a79cd79](https://github.com/crafthippie/grimson/commit/a79cd79964c25c1e0141611e12a4e68fb1a6e6e4))
+
 ## [2.0.33](https://github.com/crafthippie/grimson/compare/v2.0.32...v2.0.33) (2026-05-11)
 
 ### Dependencies
