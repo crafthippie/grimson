@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.0.37](https://github.com/crafthippie/grimson/compare/v2.0.36...v2.0.37) (2026-06-15)
+
+### Dependencies
+
+* **patch:** pin dependencies ([#121](https://github.com/crafthippie/grimson/issues/121)) ([5f2864d](https://github.com/crafthippie/grimson/commit/5f2864d2fee67789aab481465ff32af5344f7879))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([0b560a1](https://github.com/crafthippie/grimson/commit/0b560a17b51e6bfd763401a62fb609cff82235cd))
+
 ## [2.0.36](https://github.com/crafthippie/grimson/compare/v2.0.35...v2.0.36) (2026-06-08)
 
 ### Dependencies
