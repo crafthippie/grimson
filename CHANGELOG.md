@@ -1,5 +1,7 @@
 # Changelog
 
+## [2.0.40](https://github.com/crafthippie/grimson/compare/v2.0.39...v2.0.40) (2026-07-13)
+
 ## [2.0.39](https://github.com/crafthippie/grimson/compare/v2.0.38...v2.0.39) (2026-07-06)
 
 ## [2.0.38](https://github.com/crafthippie/grimson/compare/v2.0.37...v2.0.38) (2026-06-29)
