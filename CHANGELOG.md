@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.1.0](https://github.com/crafthippie/grimson/compare/v2.0.42...v2.1.0) (2026-08-03)
+
+### Features
+
+* restructure repo and build processes ([8f56746](https://github.com/crafthippie/grimson/commit/8f56746be27e86b367065c46a5340b3398b2ca6c))
+
+### Bugfixes
+
+* make does not exist anymore ([b2a0210](https://github.com/crafthippie/grimson/commit/b2a021083a9d5866c940febda02af69319117c49))
+* resolve build script and ignore dockerfile ([7e2609b](https://github.com/crafthippie/grimson/commit/7e2609b78fa92678757954f4014b64c583e49aba))
+
+### Dependencies
+
+* **minor:** update dependency task to v3.52.0 ([#131](https://github.com/crafthippie/grimson/issues/131)) ([9cea6c0](https://github.com/crafthippie/grimson/commit/9cea6c03810c56a91f9c61fc6982eaedb91bc58b))
+* **patch:** pin quay.io/crafthippie/grimson docker tag to eb8095e ([#130](https://github.com/crafthippie/grimson/issues/130)) ([ec4ab4f](https://github.com/crafthippie/grimson/commit/ec4ab4fe7e9f288b6f10b81f44448207d71c4c67))
+
 ## [2.0.42](https://github.com/crafthippie/grimson/compare/v2.0.41...v2.0.42) (2026-07-27)
 
 ## [2.0.41](https://github.com/crafthippie/grimson/compare/v2.0.40...v2.0.41) (2026-07-20)
