@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.1.1](https://github.com/crafthippie/grimson/compare/v2.1.0...v2.1.1) (2026-08-10)
+
+### Dependencies
+
+* **patch:** pin quay.io/crafthippie/grimson docker tag to b35cf76 ([#132](https://github.com/crafthippie/grimson/issues/132)) ([fab9370](https://github.com/crafthippie/grimson/commit/fab9370bd5674ba3eb108bf83e6bb34b00f474ca))
+
 ## [2.1.0](https://github.com/crafthippie/grimson/compare/v2.0.42...v2.1.0) (2026-08-03)
 
 ### Features
