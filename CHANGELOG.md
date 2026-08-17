@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.2.0](https://github.com/crafthippie/grimson/compare/v2.1.1...v2.2.0) (2026-08-17)
+
+### Dependencies
+
+* **minor:** update dependency hugo-extended to v0.165.0 ([#136](https://github.com/crafthippie/grimson/issues/136)) ([ec3c337](https://github.com/crafthippie/grimson/commit/ec3c3377003dc12b2007aa0304d72f8c3e12a760))
+* **patch:** pin quay.io/crafthippie/grimson docker tag to c9f704c ([#134](https://github.com/crafthippie/grimson/issues/134)) ([f531ed5](https://github.com/crafthippie/grimson/commit/f531ed58cebcdbc6519699c2513a8c8e34de0413))
+* **patch:** update dependency pre-commit to v4.6.2 ([#135](https://github.com/crafthippie/grimson/issues/135)) ([4af5dd6](https://github.com/crafthippie/grimson/commit/4af5dd6104f2c2c810755212466ab108ccfd76ad))
+
 ## [2.1.1](https://github.com/crafthippie/grimson/compare/v2.1.0...v2.1.1) (2026-08-10)
 
 ### Dependencies
