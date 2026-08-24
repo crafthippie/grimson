@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.0](https://github.com/crafthippie/grimson/compare/v2.2.0...v2.3.0) (2026-08-24)
+
+### Dependencies
+
+* **minor:** update dependency task to v3.53.1 ([#138](https://github.com/crafthippie/grimson/issues/138)) ([e3d5baa](https://github.com/crafthippie/grimson/commit/e3d5baa5ee539688f6e2f2a44811418be976ed8c))
+* **patch:** pin quay.io/crafthippie/grimson docker tag to aadb2a0 ([#137](https://github.com/crafthippie/grimson/issues/137)) ([6d9ab91](https://github.com/crafthippie/grimson/commit/6d9ab91fbd26de2d1b8769ca2312a88161374bdd))
+
 ## [2.2.0](https://github.com/crafthippie/grimson/compare/v2.1.1...v2.2.0) (2026-08-17)
 
 ### Dependencies
