@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.3.2](https://github.com/crafthippie/grimson/compare/v2.3.1...v2.3.2) (2026-09-07)
+
+### Dependencies
+
+* **patch:** pin quay.io/crafthippie/grimson docker tag to 06c596c ([#140](https://github.com/crafthippie/grimson/issues/140)) ([f45e8a0](https://github.com/crafthippie/grimson/commit/f45e8a042c2464c6b617ff69445771f51216572f))
+* **patch:** update module go:github.com/packwiz/packwiz to v0.0.0-20260902165313-9066bf845f7e ([#141](https://github.com/crafthippie/grimson/issues/141)) ([9ffe200](https://github.com/crafthippie/grimson/commit/9ffe2008cdabed16d81350431a04c20a6675f6ce))
+* **patch:** update module go:github.com/packwiz/packwiz to v0.0.0-20260906154125-ef87d964f8cb ([#142](https://github.com/crafthippie/grimson/issues/142)) ([f987f6d](https://github.com/crafthippie/grimson/commit/f987f6df4ea56351c8baf7d2169c55ea75a39f0b))
+
 ## [2.3.1](https://github.com/crafthippie/grimson/compare/v2.3.0...v2.3.1) (2026-08-31)
 
 ### Dependencies
