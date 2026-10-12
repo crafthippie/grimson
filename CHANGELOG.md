@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.4.1](https://github.com/crafthippie/grimson/compare/v2.4.0...v2.4.1) (2026-10-12)
+
+### Dependencies
+
+* **mise:** update dependency hugo-extended to v0.167.0 ([#146](https://github.com/crafthippie/grimson/issues/146)) ([eb4d5ca](https://github.com/crafthippie/grimson/commit/eb4d5ca0afff8672dac79a346477a6a35cd79df2))
+* **mise:** update dependency prek to v0.5.4 ([#145](https://github.com/crafthippie/grimson/issues/145)) ([19f8611](https://github.com/crafthippie/grimson/commit/19f861103cad1f9381934b9cce4ce8f56e2160b7))
+* **mise:** update dependency prek to v0.5.5 ([#149](https://github.com/crafthippie/grimson/issues/149)) ([1f19915](https://github.com/crafthippie/grimson/commit/1f199154ff39882af644b55f562773c688eca224))
+* **mise:** update dependency task to v3.54.0 ([#148](https://github.com/crafthippie/grimson/issues/148)) ([05b80a6](https://github.com/crafthippie/grimson/commit/05b80a6e6a5c5a97361ac0cc88fbedbf2b00bd19))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 1707586 ([#151](https://github.com/crafthippie/grimson/issues/151)) ([36fd305](https://github.com/crafthippie/grimson/commit/36fd3053c412a944513d709edf1ccc84043048e0))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 6fc1675 ([#150](https://github.com/crafthippie/grimson/issues/150)) ([456da43](https://github.com/crafthippie/grimson/commit/456da4335b7da74374aecb7373127140c4874ee9))
+
 ## [2.4.0](https://github.com/crafthippie/grimson/compare/v2.3.2...v2.4.0) (2026-09-14)
 
 ### Dependencies
