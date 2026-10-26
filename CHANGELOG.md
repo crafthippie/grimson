@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.4.3](https://github.com/crafthippie/grimson/compare/v2.4.2...v2.4.3) (2026-10-26)
+
+### Dependencies
+
+* **mise:** update dependency prek to v0.5.7 ([#159](https://github.com/crafthippie/grimson/issues/159)) ([d557a00](https://github.com/crafthippie/grimson/commit/d557a009744384a2f4bb42c8ace95d12cd73370b))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 36511e6 ([#158](https://github.com/crafthippie/grimson/issues/158)) ([75644f2](https://github.com/crafthippie/grimson/commit/75644f2906ea2a13027f42f19bf1349a3bc34459))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to f0c9964 ([#160](https://github.com/crafthippie/grimson/issues/160)) ([811d22e](https://github.com/crafthippie/grimson/commit/811d22e9299ebacd30df2213841afe17bc7b8301))
+
 ## [2.4.2](https://github.com/crafthippie/grimson/compare/v2.4.1...v2.4.2) (2026-10-19)
 
 ### Dependencies
