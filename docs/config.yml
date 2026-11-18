@@ -1,0 +1,34 @@
+---
+# yaml-language-server: $schema=https://www.schemastore.org/hugo.json
+baseURL: https://crafthippie.github.io/grimson/
+locale: en-us
+title: Grimson
+
+disableKinds:
+  - taxonomy
+  - rss
+  - sitemap
+
+security:
+  allowContent:
+    - '! ^text/org$'
+
+blackfriday:
+  angledQuotes: true
+  fractions: false
+  plainIDAnchors: true
+  smartlists: true
+  extensions:
+    - hardLineBreak
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  author: Thomas Boerger
+  description: Documentation for Minecraft pack Grimson
+  keywords: minecraft, mod, modpack, forge
+
+...
