@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.5.0](https://github.com/crafthippie/grimson/compare/v2.4.5...v2.5.0) (2026-11-23)
+
+### Features
+
+* switch to plain hugo and resolve deprecations ([ee0119e](https://github.com/crafthippie/grimson/commit/ee0119ebe0b5e06c76f59e081156392dff34a6d2))
+
+### Bugfixes
+
+* replace security allowContent with cascade config ([c2bd425](https://github.com/crafthippie/grimson/commit/c2bd4251363578bb6acdf944f1dff1abf6184861))
+
+### Dependencies
+
+* **mise:** update dependency hugo-extended to v0.170.1 ([#176](https://github.com/crafthippie/grimson/issues/176)) ([5f5aced](https://github.com/crafthippie/grimson/commit/5f5aced1b2601af0f36dbdbaeb0d73ae5bb1c718))
+* **patch:** pin quay.io/crafthippie/grimson docker tag to 737d9b2 ([#175](https://github.com/crafthippie/grimson/issues/175)) ([d2e628d](https://github.com/crafthippie/grimson/commit/d2e628d6b5d464d17537903335a19c9ac51f87d1))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to bc2393c ([#174](https://github.com/crafthippie/grimson/issues/174)) ([7d265c3](https://github.com/crafthippie/grimson/commit/7d265c3dc617c033b1f145a67067bcf162e13732))
+
 ## [2.4.5](https://github.com/crafthippie/grimson/compare/v2.4.4...v2.4.5) (2026-11-16)
 
 ### Dependencies
